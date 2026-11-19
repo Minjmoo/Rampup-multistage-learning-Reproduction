@@ -42,9 +42,9 @@ python [36]_Figure2.py     # 1,200 MIP solves; may take several minutes
 Requires Gurobi. The free size-limited license included with pip install gurobipy is enough for these instance sizes.
 
 Output
-
 - figure2a_results.csv, figure2b_results.csv: TRC for each τ
 - figure2.png: reproduced Figure 2
+```
 
 ## Results
 ### Figure 2 — TRC vs. learning parameter τ
