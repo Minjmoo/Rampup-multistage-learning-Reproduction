@@ -45,3 +45,5 @@ Output
 
 - figure2a_results.csv, figure2b_results.csv: TRC for each τ
 - figure2.png: reproduced Figure 2
+
+<img width="1800" height="2000" alt="figure2" src="https://github.com/user-attachments/assets/f3e89c5b-aea1-4c1d-a3aa-51f54b1b0e90" />
